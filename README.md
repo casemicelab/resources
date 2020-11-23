@@ -4,6 +4,7 @@ Merhaba dostum. CasemiceLab. , Casemice şirketinin yazılım geliştirme konusu
 
 ### Konu başlıkları
 
+- [İnternet](#internet)
 - [CSS](#css)
 - [Django](#django)
 - [Git](#git)
@@ -17,6 +18,12 @@ Merhaba dostum. CasemiceLab. , Casemice şirketinin yazılım geliştirme konusu
 - [Kendi Kendine Öğren](#kendi-kendine-öğren)
 
 ## Teknoloji ve Diller
+
+### İnternet
+
+- [EN How does internet work? (Video)](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [EN How does internet work?](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8#:~:text=It%20is%20a%20network%20that,their%20source%20to%20their%20destination.)
+- [Tarayıcılar nasıl çalışır? (Yazı Serisi)](https://hanakamer.com/tarayıcılar-nasıl-çalışıyor-1-2-52e3224defa4)
 
 ### HTML
 
