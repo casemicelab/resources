@@ -49,6 +49,7 @@ Merhaba dostum. CasemiceLab. , Casemice şirketinin yazılım geliştirme konusu
 - [w3schools (İngilizce)](https://www.w3schools.com/js/DEFAULT.asp)- [The Modern JavaScript Tutorial (İngilizce)](https://javascript.info/)
 - [JavaScript Dersleri (Türkçe)](https://javascript.sitesi.web.tr/)
 - [ES6 Türkçe Kaynaklar Listesi](https://github.com/fatihhayri/es6-turkce-kaynaklar) - [Fatih Hayrioğlu](https://twitter.com/fatihhayri)
+- [JavaScript'in Tarihçesi ve Kavramlar](https://www.onurdayibasi.com/javascriptin-tarihçesi/)
 
 ### TypeScript
 
